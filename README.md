@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Fatchur
+- 👀 I’m interested in web develop and ui/ux
+- 🌱 I’m currently learning python and try some more
